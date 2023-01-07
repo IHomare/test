@@ -2,4 +2,7 @@
 かきくけこ
 hbugvycftctf
 
+
 point
+goal
+
